@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLife", "GameOfLife\GameOfLife.csproj", "{CBF3208D-33E0-4034-99C1-688F5B682265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF3208D-33E0-4034-99C1-688F5B682265}.Debug|x86.ActiveCfg = Debug|x86
+		{CBF3208D-33E0-4034-99C1-688F5B682265}.Debug|x86.Build.0 = Debug|x86
+		{CBF3208D-33E0-4034-99C1-688F5B682265}.Release|x86.ActiveCfg = Release|x86
+		{CBF3208D-33E0-4034-99C1-688F5B682265}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
